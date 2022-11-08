@@ -1,0 +1,15 @@
+C:\Users\Cory\Desktop\WGU-Software-II-Project-master\C969 - Software II\obj\Debug\C969 - Software II.csproj.AssemblyReference.cache
+C:\Users\Cory\Desktop\WGU-Software-II-Project-master\C969 - Software II\obj\Debug\C969___Software_II.AddAppointment.resources
+C:\Users\Cory\Desktop\WGU-Software-II-Project-master\C969 - Software II\obj\Debug\C969___Software_II.CreateCustomer.resources
+C:\Users\Cory\Desktop\WGU-Software-II-Project-master\C969 - Software II\obj\Debug\C969___Software_II.CustomerReport.resources
+C:\Users\Cory\Desktop\WGU-Software-II-Project-master\C969 - Software II\obj\Debug\C969___Software_II.DeleteAppointment.resources
+C:\Users\Cory\Desktop\WGU-Software-II-Project-master\C969 - Software II\obj\Debug\C969___Software_II.DeleteCustomer.resources
+C:\Users\Cory\Desktop\WGU-Software-II-Project-master\C969 - Software II\obj\Debug\C969___Software_II.Login.resources
+C:\Users\Cory\Desktop\WGU-Software-II-Project-master\C969 - Software II\obj\Debug\C969___Software_II.MainForm.resources
+C:\Users\Cory\Desktop\WGU-Software-II-Project-master\C969 - Software II\obj\Debug\C969___Software_II.NumberOfAppointmentsReport.resources
+C:\Users\Cory\Desktop\WGU-Software-II-Project-master\C969 - Software II\obj\Debug\C969___Software_II.Properties.Resources.resources
+C:\Users\Cory\Desktop\WGU-Software-II-Project-master\C969 - Software II\obj\Debug\C969___Software_II.UpdateAppointment.resources
+C:\Users\Cory\Desktop\WGU-Software-II-Project-master\C969 - Software II\obj\Debug\C969___Software_II.UpdateCustomer.resources
+C:\Users\Cory\Desktop\WGU-Software-II-Project-master\C969 - Software II\obj\Debug\C969___Software_II.UserSchedules.resources
+C:\Users\Cory\Desktop\WGU-Software-II-Project-master\C969 - Software II\obj\Debug\C969 - Software II.csproj.GenerateResource.cache
+C:\Users\Cory\Desktop\WGU-Software-II-Project-master\C969 - Software II\obj\Debug\C969 - Software II.csproj.CoreCompileInputs.cache
