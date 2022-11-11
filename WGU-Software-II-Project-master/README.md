@@ -1,5 +1,7 @@
 # WGU-Software-II-Project
 
+Currently in an inoperable state until update to new DB
+
 COMPETENCIES
 
 4041.4.1: Database and File Server Applications
